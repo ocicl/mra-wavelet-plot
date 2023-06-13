@@ -1,0 +1,10 @@
+* mra-wavelet-plot
+
+Helper for plotting MRA-based wavelets
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/shamazmazum/mra-wavelet-plot.git   |
+| commit  | ad9e95b  |
+| systems | mra-wavelet-plot |
+|---------+-------------------------------------------|
+
