@@ -8,4 +8,4 @@ Helper for plotting MRA-based wavelets
 | systems | mra-wavelet-plot |
 |---------+-------------------------------------------|
 
- 
+  
